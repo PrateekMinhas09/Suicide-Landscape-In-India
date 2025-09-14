@@ -1,0 +1,561 @@
+Country,State,Year,Additional Info,"Number Of Suicides (UOM:Number), Scaling Factor:1","Percentage Share In Total Suicides (UOM:%(Percentage)), Scaling Factor:1","Projected Mid-Year Population (UOM:Number), Scaling Factor:100000","Rate Of Suicides (UOM:Ratio), Scaling Factor:1","Rank (UOM:Number), Scaling Factor:1"
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2022",,171,0.1,4.0,42.8,
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2022",,8908,5.2,530.3,16.8,
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2022",,149,0.1,15.5,9.6,
+India,Assam,"Calendar Year (Jan - Dec), 2022",,3320,1.9,354.9,9.4,
+India,Bihar,"Calendar Year (Jan - Dec), 2022",,702,0.4,1255.3,0.6,
+India,Chandigarh,"Calendar Year (Jan - Dec), 2022",,131,0.1,12.2,10.7,
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2022",,8446,4.9,299.5,28.2,
+India,Goa,"Calendar Year (Jan - Dec), 2022",,302,0.2,15.7,19.2,
+India,Gujarat,"Calendar Year (Jan - Dec), 2022",,9002,5.3,709.3,12.7,
+India,Haryana,"Calendar Year (Jan - Dec), 2022",,3783,2.2,299.7,12.6,
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2022",,644,0.4,74.4,8.7,
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2022",,323,0.2,135.4,2.4,
+India,Jharkhand,"Calendar Year (Jan - Dec), 2022",,2181,1.3,391.4,5.6,
+India,Karnataka,"Calendar Year (Jan - Dec), 2022",,13606,8.0,674.1,20.2,
+India,Kerala,"Calendar Year (Jan - Dec), 2022",,10162,5.9,356.8,28.5,
+India,Ladakh,"Calendar Year (Jan - Dec), 2022",,13,0.0,3.0,4.3,
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2022",,2,0.0,0.7,2.9,
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2022",,15386,9.0,858.9,17.9,
+India,Maharashtra,"Calendar Year (Jan - Dec), 2022",,22746,13.3,1257.4,18.1,
+India,Manipur,"Calendar Year (Jan - Dec), 2022",,26,0.0,32.0,0.8,
+India,Meghalaya,"Calendar Year (Jan - Dec), 2022",,213,0.1,33.3,6.4,
+India,Mizoram,"Calendar Year (Jan - Dec), 2022",,153,0.1,12.3,12.4,
+India,Nagaland,"Calendar Year (Jan - Dec), 2022",,49,0.0,22.2,2.2,
+India,Odisha,"Calendar Year (Jan - Dec), 2022",,6140,3.6,460.8,13.3,
+India,Puducherry,"Calendar Year (Jan - Dec), 2022",,481,0.3,16.2,29.7,
+India,Punjab,"Calendar Year (Jan - Dec), 2022",,2441,1.4,306.0,8.0,
+India,Rajasthan,"Calendar Year (Jan - Dec), 2022",,5343,3.1,804.4,6.6,
+India,Sikkim,"Calendar Year (Jan - Dec), 2022",,293,0.2,6.8,43.1,
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",,19834,11.6,767.1,25.9,
+India,Telangana,"Calendar Year (Jan - Dec), 2022",,9980,5.8,379.5,26.3,
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2022",,205,0.1,12.0,17.1,
+India,Tripura,"Calendar Year (Jan - Dec), 2022",,713,0.4,41.2,17.3,
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2022",,8176,4.8,2340.9,3.5,
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2022",,814,0.5,115.6,7.0,
+India,West Bengal,"Calendar Year (Jan - Dec), 2022",,12669,7.4,987.6,12.8,
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2021",,159,0.1,4.01,39.7,
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2021",,8067,4.9,528.49,15.3,
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2021",,160,0.1,15.37,10.4,
+India,Assam,"Calendar Year (Jan - Dec), 2021",,3262,2.0,351.55,9.3,
+India,Bihar,"Calendar Year (Jan - Dec), 2021",,827,0.5,1236.95,0.7,
+India,Chandigarh,"Calendar Year (Jan - Dec), 2021",,120,0.1,12.12,9.9,
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2021",,7828,4.8,296.07,26.4,
+India,Goa,"Calendar Year (Jan - Dec), 2021",,321,0.2,15.61,20.6,
+India,Gujarat,"Calendar Year (Jan - Dec), 2021",,8789,5.4,700.75,12.5,
+India,Haryana,"Calendar Year (Jan - Dec), 2021",,3692,2.3,296.04,12.5,
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2021",,889,0.5,74.06,12.0,
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2021",,247,0.2,134.4,1.8,
+India,Jharkhand,"Calendar Year (Jan - Dec), 2021",,1825,1.1,386.37,4.7,
+India,Karnataka,"Calendar Year (Jan - Dec), 2021",,13056,8.0,669.86,19.5,
+India,Kerala,"Calendar Year (Jan - Dec), 2021",,9549,5.8,355.37,26.9,
+India,Ladakh,"Calendar Year (Jan - Dec), 2021",,11,0.0,2.98,3.7,
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2021",,1,0.0,0.68,1.5,
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2021",,14965,9.1,848.6,17.6,
+India,Maharashtra,"Calendar Year (Jan - Dec), 2021",,22207,13.5,1247.62,17.8,
+India,Manipur,"Calendar Year (Jan - Dec), 2021",,49,0.0,31.72,1.5,
+India,Meghalaya,"Calendar Year (Jan - Dec), 2021",,226,0.1,32.95,6.9,
+India,Mizoram,"Calendar Year (Jan - Dec), 2021",,99,0.1,12.19,8.1,
+India,Nagaland,"Calendar Year (Jan - Dec), 2021",,43,0.0,21.98,2.0,
+India,Odisha,"Calendar Year (Jan - Dec), 2021",,5651,3.4,457.93,12.3,
+India,Puducherry,"Calendar Year (Jan - Dec), 2021",,504,0.3,15.84,31.8,
+India,Punjab,"Calendar Year (Jan - Dec), 2021",,2600,1.6,304.04,8.6,
+India,Rajasthan,"Calendar Year (Jan - Dec), 2021",,5593,3.4,795.72,7.0,
+India,Sikkim,"Calendar Year (Jan - Dec), 2021",,266,0.2,6.78,39.2,
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",,18925,11.5,764.79,24.7,
+India,Telangana,"Calendar Year (Jan - Dec), 2021",,10171,6.2,377.71,26.9,
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2021",,171,0.1,11.08,15.4,
+India,Tripura,"Calendar Year (Jan - Dec), 2021",,771,0.5,40.81,18.9,
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2021",,5932,3.6,2317.04,2.6,
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2021",,717,0.4,114.39,6.3,
+India,West Bengal,"Calendar Year (Jan - Dec), 2021",,13500,8.2,982.85,13.7,
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2020",,180,0.1,4.0,45.0,
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2020",,7043,4.6,526.0,13.4,
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2020",,160,0.1,15.2,10.5,
+India,Assam,"Calendar Year (Jan - Dec), 2020",,3243,2.1,347.9,9.3,
+India,Bihar,"Calendar Year (Jan - Dec), 2020",,809,0.5,1219.0,0.7,
+India,Chandigarh,"Calendar Year (Jan - Dec), 2020",,128,0.1,12.0,10.7,
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2020",,7710,5.0,292.4,26.4,
+India,Goa,"Calendar Year (Jan - Dec), 2020",,308,0.2,15.5,19.9,
+India,Gujarat,"Calendar Year (Jan - Dec), 2020",,8050,5.3,691.7,11.6,
+India,Haryana,"Calendar Year (Jan - Dec), 2020",,4001,2.6,292.1,13.7,
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2020",,857,0.6,73.6,11.6,
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2020",,287,0.2,133.4,2.2,
+India,Jharkhand,"Calendar Year (Jan - Dec), 2020",,2145,1.4,381.2,5.6,
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",,12259,8.0,665.0,18.4,
+India,Kerala,"Calendar Year (Jan - Dec), 2020",,8500,5.6,353.7,24.0,
+India,Ladakh,"Calendar Year (Jan - Dec), 2020",,12,0.0,3.0,4.0,
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2020",,2,0.0,0.7,2.9,
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2020",,14578,9.5,837.6,17.4,
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",,19909,13.0,1236.8,16.1,
+India,Manipur,"Calendar Year (Jan - Dec), 2020",,44,0.0,31.4,1.4,
+India,Meghalaya,"Calendar Year (Jan - Dec), 2020",,224,0.1,32.6,6.9,
+India,Mizoram,"Calendar Year (Jan - Dec), 2020",,108,0.1,12.1,8.9,
+India,Nagaland,"Calendar Year (Jan - Dec), 2020",,48,0.0,21.8,2.2,
+India,Odisha,"Calendar Year (Jan - Dec), 2020",,5546,3.6,454.7,12.2,
+India,Puducherry,"Calendar Year (Jan - Dec), 2020",,408,0.3,15.5,26.3,
+India,Punjab,"Calendar Year (Jan - Dec), 2020",,2616,1.7,301.8,8.7,
+India,Rajasthan,"Calendar Year (Jan - Dec), 2020",,5658,3.7,786.1,7.2,
+India,Sikkim,"Calendar Year (Jan - Dec), 2020",,285,0.2,6.7,42.5,
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",,16883,11.0,761.7,22.2,
+India,Telangana,"Calendar Year (Jan - Dec), 2020",,8058,5.3,375.4,21.5,
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2020",,156,0.1,10.4,15.0,
+India,Tripura,"Calendar Year (Jan - Dec), 2020",,845,0.6,40.4,20.9,
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2020",,4804,3.1,2289.3,2.1,
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2020",,943,0.6,113.1,8.3,
+India,West Bengal,"Calendar Year (Jan - Dec), 2020",,13103,8.6,977.2,13.4,
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2019",,181,0.1,4.0,45.5,
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2019",,6465,4.6,523.2,12.4,
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2019",,112,0.1,15.1,7.4,
+India,Assam,"Calendar Year (Jan - Dec), 2019",,2370,1.7,344.2,6.9,
+India,Bihar,"Calendar Year (Jan - Dec), 2019",,641,0.5,1201.1,0.5,
+India,Chandigarh,"Calendar Year (Jan - Dec), 2019",,131,0.1,11.8,11.1,
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2019",,7629,5.5,288.5,26.4,
+India,Goa,"Calendar Year (Jan - Dec), 2019",,259,0.2,15.4,16.8,
+India,Gujarat,"Calendar Year (Jan - Dec), 2019",,7655,5.5,682.5,11.2,
+India,Haryana,"Calendar Year (Jan - Dec), 2019",,4191,3.0,288.1,14.5,
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2019",,584,0.4,73.2,8.0,
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2019",,277.78802825392552084440,0.2,132.340564164634235810730,2.1,
+India,Jharkhand,"Calendar Year (Jan - Dec), 2019",,1646,1.2,375.8,4.4,
+India,Karnataka,"Calendar Year (Jan - Dec), 2019",,11288,8.1,659.7,17.1,
+India,Kerala,"Calendar Year (Jan - Dec), 2019",,8556,6.1,351.9,24.3,
+India,Ladakh,"Calendar Year (Jan - Dec), 2019",,6.21197174607447915560,0.2,2.959435835365764189270,2.1,
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2019",,0,0.0,0.7,0.0,
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2019",,12457,9.0,826.1,15.1,
+India,Maharashtra,"Calendar Year (Jan - Dec), 2019",,18916,13.6,1225.3,15.4,
+India,Manipur,"Calendar Year (Jan - Dec), 2019",,58,0.0,31.1,1.9,
+India,Meghalaya,"Calendar Year (Jan - Dec), 2019",,198,0.1,32.3,6.1,
+India,Mizoram,"Calendar Year (Jan - Dec), 2019",,70,0.1,12.0,5.9,
+India,Nagaland,"Calendar Year (Jan - Dec), 2019",,41,0.0,21.6,1.9,
+India,Odisha,"Calendar Year (Jan - Dec), 2019",,4582,3.3,437.3,10.5,
+India,Puducherry,"Calendar Year (Jan - Dec), 2019",,493,0.4,15.2,32.5,
+India,Punjab,"Calendar Year (Jan - Dec), 2019",,2357,1.7,299.4,7.9,
+India,Rajasthan,"Calendar Year (Jan - Dec), 2019",,4531,3.3,776.0,5.8,
+India,Sikkim,"Calendar Year (Jan - Dec), 2019",,220,0.2,6.7,33.1,
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",,13493,9.7,758.1,17.8,
+India,Telangana,"Calendar Year (Jan - Dec), 2019",,7675,5.5,372.8,20.6,
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2019",,141.00000000000000000000,0.036931548946183642879,9.800000000000000000000,13.189756034663385858498,
+India,Tripura,"Calendar Year (Jan - Dec), 2019",,728,0.5,40.0,18.2,
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2019",,5464,3.9,2259.7,2.4,
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2019",,516,0.4,111.8,4.6,
+India,West Bengal,"Calendar Year (Jan - Dec), 2019",,12665,9.1,971.1,13.0,
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2018",,164,0.1,4.0,41.0,
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2018",,5319,4.0,520.3,10.2,
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2018",,132,0.1,14.9,8.9,
+India,Assam,"Calendar Year (Jan - Dec), 2018",,2379,1.8,340.4,7.0,
+India,Bihar,"Calendar Year (Jan - Dec), 2018",,443,0.3,1183.3,0.4,
+India,Chandigarh,"Calendar Year (Jan - Dec), 2018",,160,0.1,11.7,13.7,
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2018",,7046,5.2,284.7,24.7,
+India,Goa,"Calendar Year (Jan - Dec), 2018",,256,0.2,15.3,16.7,
+India,Gujarat,"Calendar Year (Jan - Dec), 2018",,7793,5.8,673.2,11.6,
+India,Haryana,"Calendar Year (Jan - Dec), 2018",,3547,2.6,284.0,12.5,
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2018",,740,0.6,72.7,10.2,
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2018",,322.78186381618106295300,0.2,131.362437304585202286630,2.5,
+India,Jharkhand,"Calendar Year (Jan - Dec), 2018",,1317,1.0,370.5,3.6,
+India,Karnataka,"Calendar Year (Jan - Dec), 2018",,11561,8.6,654.5,17.7,
+India,Kerala,"Calendar Year (Jan - Dec), 2018",,8237,6.1,350.0,23.5,
+India,Ladakh,"Calendar Year (Jan - Dec), 2018",,7.21813618381893704700,0.2,2.937562695414797713370,2.5,
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2018",,3,0.0,0.7,4.3,
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2018",,11775,8.8,814.7,14.5,
+India,Maharashtra,"Calendar Year (Jan - Dec), 2018",,17972,13.4,1213.9,14.8,
+India,Manipur,"Calendar Year (Jan - Dec), 2018",,52,0.0,30.8,1.7,
+India,Meghalaya,"Calendar Year (Jan - Dec), 2018",,189,0.1,11.8,16.0,
+India,Mizoram,"Calendar Year (Jan - Dec), 2018",,79,0.1,32.0,2.5,
+India,Nagaland,"Calendar Year (Jan - Dec), 2018",,36,0.0,21.3,1.7,
+India,Odisha,"Calendar Year (Jan - Dec), 2018",,4592,3.4,435.5,10.5,
+India,Puducherry,"Calendar Year (Jan - Dec), 2018",,500,0.4,14.8,33.8,
+India,Punjab,"Calendar Year (Jan - Dec), 2018",,1714,1.3,297.0,5.8,
+India,Rajasthan,"Calendar Year (Jan - Dec), 2018",,4333,3.2,765.9,5.7,
+India,Sikkim,"Calendar Year (Jan - Dec), 2018",,199,0.1,6.6,30.2,
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",,13896,10.3,754.6,18.4,
+India,Telangana,"Calendar Year (Jan - Dec), 2018",,7845,5.8,370.3,21.2,
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2018",,136.00000000000000000000,0.036931548946183642879,9.300000000000000000000,12.603949541456915216537,
+India,Tripura,"Calendar Year (Jan - Dec), 2018",,720,0.5,39.6,18.2,
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2018",,4849,3.6,2230.0,2.2,
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2018",,421,0.3,110.6,3.8,
+India,West Bengal,"Calendar Year (Jan - Dec), 2018",,13255,9.9,965.0,13.7,
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2017",,139,0.1,3.9,35.6,
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2017",,5354,4.1,517.5,10.3,
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2017",,89,0.1,14.8,6.0,
+India,Assam,"Calendar Year (Jan - Dec), 2017",,2276,1.8,336.7,6.8,
+India,Bihar,"Calendar Year (Jan - Dec), 2017",,388,0.3,1165.5,0.3,
+India,Chandigarh,"Calendar Year (Jan - Dec), 2017",,113,0.1,11.6,9.7,
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2017",,6312,4.9,280.8,22.5,
+India,Goa,"Calendar Year (Jan - Dec), 2017",,273,0.2,15.2,18.0,
+India,Gujarat,"Calendar Year (Jan - Dec), 2017",,7418,5.7,663.9,11.2,
+India,Haryana,"Calendar Year (Jan - Dec), 2017",,3387,2.6,280.0,12.1,
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2017",,576,0.4,72.2,8.0,
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2017",,280.72240883407262141670,0.2,130.286497758531265410120,2.2,
+India,Jharkhand,"Calendar Year (Jan - Dec), 2017",,1214,0.9,365.1,3.3,
+India,Karnataka,"Calendar Year (Jan - Dec), 2017",,11716,9.0,649.3,18.0,
+India,Kerala,"Calendar Year (Jan - Dec), 2017",,7870,6.1,348.2,22.6,
+India,Ladakh,"Calendar Year (Jan - Dec), 2017",,6.27759116592737858330,0.2,2.913502241468734589880,2.2,
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2017",,0,0.0,0.7,0.0,
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2017",,11770,9.1,803.3,14.7,
+India,Maharashtra,"Calendar Year (Jan - Dec), 2017",,17646,13.6,1202.5,14.7,
+India,Manipur,"Calendar Year (Jan - Dec), 2017",,43,0.0,30.5,1.4,
+India,Meghalaya,"Calendar Year (Jan - Dec), 2017",,165,0.1,11.7,14.1,
+India,Mizoram,"Calendar Year (Jan - Dec), 2017",,91,0.1,31.7,2.9,
+India,Nagaland,"Calendar Year (Jan - Dec), 2017",,33,0.0,21.1,1.6,
+India,Odisha,"Calendar Year (Jan - Dec), 2017",,4493,3.5,433.7,10.4,
+India,Puducherry,"Calendar Year (Jan - Dec), 2017",,581,0.4,14.5,40.1,
+India,Punjab,"Calendar Year (Jan - Dec), 2017",,1481,1.1,294.6,5.0,
+India,Rajasthan,"Calendar Year (Jan - Dec), 2017",,3838,3.0,755.8,5.1,
+India,Sikkim,"Calendar Year (Jan - Dec), 2017",,214,0.2,6.5,32.9,
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",,14459,11.1,751.1,19.3,
+India,Telangana,"Calendar Year (Jan - Dec), 2017",,7620,5.9,367.8,20.7,
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2017",,116.00000000000000000000,0.036931548946183642879,8.600000000000000000000,12.651125055739713000918,
+India,Tripura,"Calendar Year (Jan - Dec), 2017",,692,0.5,39.2,17.7,
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2017",,4426,3.4,2200.4,2.0,
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2017",,331,0.3,109.3,3.0,
+India,West Bengal,"Calendar Year (Jan - Dec), 2017",,12014,9.2,958.9,12.5,
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2016",,146,0.1,5.54,26.4,
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2016",,6059,4.6,517.43,11.7,
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2016",,121,0.1,13.18,9.2,
+India,Assam,"Calendar Year (Jan - Dec), 2016",,3023,2.3,325.77,9.3,
+India,Bihar,"Calendar Year (Jan - Dec), 2016",,411,0.3,1043.03,0.4,
+India,Chandigarh,"Calendar Year (Jan - Dec), 2016",,123,0.1,18.01,6.8,
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2016",,6705,5.1,259.88,25.8,
+India,Goa,"Calendar Year (Jan - Dec), 2016",,273,0.2,19.85,13.8,
+India,Gujarat,"Calendar Year (Jan - Dec), 2016",,7735,5.9,630.75,12.3,
+India,Haryana,"Calendar Year (Jan - Dec), 2016",,3665,2.8,276.12,13.3,
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2016",,642,0.5,71.15,9.0,
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2016",,321.80373695613202942890,0.3,121.9039505679110481085830,2.6,
+India,Jharkhand,"Calendar Year (Jan - Dec), 2016",,1292,1.0,338.03,3.8,
+India,Karnataka,"Calendar Year (Jan - Dec), 2016",,10687,8.2,625.68,17.1,
+India,Kerala,"Calendar Year (Jan - Dec), 2016",,7705,5.9,357.45,21.6,
+India,Ladakh,"Calendar Year (Jan - Dec), 2016",,7.19626304386797057110,0.3,2.7260494320889518914170,2.6,
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2016",,3,0.0,0.82,3.7,
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2016",,10442,8.0,782.55,13.3,
+India,Maharashtra,"Calendar Year (Jan - Dec), 2016",,17195,13.1,1205.54,14.3,
+India,Manipur,"Calendar Year (Jan - Dec), 2016",,37,0.0,26.01,1.4,
+India,Meghalaya,"Calendar Year (Jan - Dec), 2016",,166,0.1,27.84,6.0,
+India,Mizoram,"Calendar Year (Jan - Dec), 2016",,124,0.1,10.67,11.6,
+India,Nagaland,"Calendar Year (Jan - Dec), 2016",,34,0.0,23.89,1.4,
+India,Odisha,"Calendar Year (Jan - Dec), 2016",,3904,3.0,425.93,9.2,
+India,Puducherry,"Calendar Year (Jan - Dec), 2016",,561,0.4,16.83,33.3,
+India,Punjab,"Calendar Year (Jan - Dec), 2016",,1440,1.1,292.01,4.9,
+India,Rajasthan,"Calendar Year (Jan - Dec), 2016",,3678,2.8,732.76,5.0,
+India,Sikkim,"Calendar Year (Jan - Dec), 2016",,263,0.2,6.49,40.5,
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2016",,15182,11.6,695.18,21.8,
+India,Telangana,"Calendar Year (Jan - Dec), 2016",,9019,6.9,368.53,24.5,
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2016",,91.00000000000000000000,0.000000000000000000000,7.5900000000000000000000,11.575562527869856500459,
+India,Tripura,"Calendar Year (Jan - Dec), 2016",,677,0.5,38.4,17.6,
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2016",,3518,2.7,2192.39,1.6,
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2016",,152,0.1,106.77,1.4,
+India,West Bengal,"Calendar Year (Jan - Dec), 2016",,13451,10.3,938.27,14.3,
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2015",,158,0.1,5.5,28.9,
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2015",Adjusted Mid-year projected population for the year 2015 due to absence of population figures of newly created States namely Andhra Pradesh and Telangana carved out from erstwhile 'Andhra Pradesh.,6226,4.7,513.4,12.1,
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2015",,135,0.1,13.0,10.4,
+India,Assam,"Calendar Year (Jan - Dec), 2015",,3231,2.4,322.0,10.0,
+India,Bihar,"Calendar Year (Jan - Dec), 2015",,516,0.4,1031.4,0.5,
+India,Chandigarh,"Calendar Year (Jan - Dec), 2015",,121,0.1,17.4,6.9,
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2015",,7118,5.3,256.6,27.7,
+India,Goa,"Calendar Year (Jan - Dec), 2015",,302,0.2,19.7,15.4,
+India,Gujarat,"Calendar Year (Jan - Dec), 2015",,7246,5.4,623.3,11.6,
+India,Haryana,"Calendar Year (Jan - Dec), 2015",,3545,2.7,272.2,13.0,
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2015",,543,0.4,70.6,7.7,
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2015",,363.86319193824047096520,0.3,120.700854530050736873940,3.0,
+India,Jharkhand,"Calendar Year (Jan - Dec), 2015",,835,0.6,333.5,2.5,
+India,Karnataka,"Calendar Year (Jan - Dec), 2015",,10786,8.1,619.9,17.4,
+India,Kerala,"Calendar Year (Jan - Dec), 2015",,7692,5.8,355.5,21.6,
+India,Ladakh,"Calendar Year (Jan - Dec), 2015",,8.13680806175952903480,0.3,2.699145469949263126060,3.0,
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2015",,5,0.0,0.8,6.3,
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2015",,10293,7.7,771.3,13.3,
+India,Maharashtra,"Calendar Year (Jan - Dec), 2015",,16970,12.7,1191.4,14.2,
+India,Manipur,"Calendar Year (Jan - Dec), 2015",,37,0.0,25.7,1.4,
+India,Meghalaya,"Calendar Year (Jan - Dec), 2015",,172,0.1,27.5,6.2,
+India,Mizoram,"Calendar Year (Jan - Dec), 2015",,123,0.1,10.6,11.7,
+India,Nagaland,"Calendar Year (Jan - Dec), 2015",,21,0.0,23.6,0.9,
+India,Odisha,"Calendar Year (Jan - Dec), 2015",,4087,3.1,422.5,9.7,
+India,Puducherry,"Calendar Year (Jan - Dec), 2015",,711,0.5,16.5,43.2,
+India,Punjab,"Calendar Year (Jan - Dec), 2015",,1049,0.8,289.4,3.6,
+India,Rajasthan,"Calendar Year (Jan - Dec), 2015",,3457,2.6,723.1,4.8,
+India,Sikkim,"Calendar Year (Jan - Dec), 2015",,241,0.2,6.4,37.5,
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2015",,15777,11.8,691.6,22.8,
+India,Telangana,"Calendar Year (Jan - Dec), 2015",Adjusted Mid-year projected population for the year 2015 due to absence of population figures of newly created States namely Andhra Pradesh and Telangana carved out from erstwhile 'Andhra Pradesh.,10140,7.6,365.6,27.7,
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2015",,144.00000000000000000000,0.036931548946183642879,7.400000000000000000000,16.822690656680975431544,
+India,Tripura,"Calendar Year (Jan - Dec), 2015",,746,0.6,38.0,19.6,
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2015",,3902,2.9,2158.4,1.8,
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2015",,475,0.4,105.4,4.5,
+India,West Bengal,"Calendar Year (Jan - Dec), 2015",,14602,10.9,930.0,15.7,
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2014",,155,0.1,5.4,28.9,
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2014",,6101,4.6,509.2,12.0,
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2014",,156,0.1,12.9,12.1,
+India,Assam,"Calendar Year (Jan - Dec), 2014",,3546,2.7,318.2,11.1,
+India,Bihar,"Calendar Year (Jan - Dec), 2014",,719,0.5,1019.4,0.7,
+India,Chandigarh,"Calendar Year (Jan - Dec), 2014",,105,0.1,16.8,6.3,
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2014",,5683,4.3,253.4,22.4,
+India,Goa,"Calendar Year (Jan - Dec), 2014",,291,0.2,19.3,15.1,
+India,Gujarat,"Calendar Year (Jan - Dec), 2014",,7225,5.5,615.9,11.7,
+India,Haryana,"Calendar Year (Jan - Dec), 2014",,3203,2.4,268.1,11.9,
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2014",,644,0.5,70.0,9.2,
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2014",,252.35672989265064921780,0.2,119.331476925982089940200,2.1,
+India,Jharkhand,"Calendar Year (Jan - Dec), 2014",,1300,1.0,329.1,4.0,
+India,Karnataka,"Calendar Year (Jan - Dec), 2014",,10945,8.3,614.1,17.8,
+India,Kerala,"Calendar Year (Jan - Dec), 2014",,8446,6.4,353.3,23.9,
+India,Ladakh,"Calendar Year (Jan - Dec), 2014",,5.64327010734935078220,0.2,2.668523074017910059800,2.1,
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2014",,3,0.0,0.8,3.8,
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2014",,9039,6.9,760.0,11.9,
+India,Maharashtra,"Calendar Year (Jan - Dec), 2014",,16307,12.4,1176.9,13.9,
+India,Manipur,"Calendar Year (Jan - Dec), 2014",,50,0.0,25.4,2.0,
+India,Meghalaya,"Calendar Year (Jan - Dec), 2014",,99,0.1,27.2,3.6,
+India,Mizoram,"Calendar Year (Jan - Dec), 2014",,116,0.1,10.4,11.1,
+India,Nagaland,"Calendar Year (Jan - Dec), 2014",,13,0.0,23.4,0.6,
+India,Odisha,"Calendar Year (Jan - Dec), 2014",,4160,3.2,419.1,9.9,
+India,Puducherry,"Calendar Year (Jan - Dec), 2014",,644,0.5,15.9,40.4,
+India,Punjab,"Calendar Year (Jan - Dec), 2014",,943,0.7,286.7,3.3,
+India,Rajasthan,"Calendar Year (Jan - Dec), 2014",,4459,3.4,713.2,6.3,
+India,Sikkim,"Calendar Year (Jan - Dec), 2014",,244,0.2,6.4,38.4,
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2014",,16122,12.2,687.8,23.4,
+India,Telangana,"Calendar Year (Jan - Dec), 2014",,9623,7.3,362.7,26.5,
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2014",,103.00000000000000000000,0.036931548946183642879,7.200000000000000000000,12.393154894618364287900,
+India,Tripura,"Calendar Year (Jan - Dec), 2014",,762,0.6,37.6,20.3,
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2014",,3590,2.7,2123.9,1.7,
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2014",,207,0.2,104.1,2.0,
+India,West Bengal,"Calendar Year (Jan - Dec), 2014",,14310,10.9,921.9,15.5,
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2013",,151,0.1,5.3,28.8,
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2013",,8561.90696286698808646842,10.8,506.903343704208345120688,16.9,
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2013",,229,0.2,12.7,18.0,
+India,Assam,"Calendar Year (Jan - Dec), 2013",,3553,2.6,314.5,11.3,
+India,Bihar,"Calendar Year (Jan - Dec), 2013",,1057,0.8,1007.2,1.1,
+India,Chandigarh,"Calendar Year (Jan - Dec), 2013",,97,0.1,16.1,6.0,
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2013",,5436,4.0,250.2,21.7,
+India,Goa,"Calendar Year (Jan - Dec), 2013",,328,0.2,18.9,17.4,
+India,Gujarat,"Calendar Year (Jan - Dec), 2013",,7166,5.3,608.3,11.8,
+India,Haryana,"Calendar Year (Jan - Dec), 2013",,3316,2.5,264.1,12.6,
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2013",,554,0.4,69.4,8.0,
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2013",,295.39431173480812427820,0.2,117.962099321913443006460,2.5,
+India,Jharkhand,"Calendar Year (Jan - Dec), 2013",,1460,1.1,324.8,4.5,
+India,Karnataka,"Calendar Year (Jan - Dec), 2013",,11266,8.4,608.2,18.5,
+India,Kerala,"Calendar Year (Jan - Dec), 2013",,8646,6.4,351.1,24.6,
+India,Ladakh,"Calendar Year (Jan - Dec), 2013",,6.60568826519187572180,0.2,2.637900678086556993540,2.5,
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2013",,3,0.0,0.8,3.9,
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2013",,9446,7.0,748.7,12.6,
+India,Maharashtra,"Calendar Year (Jan - Dec), 2013",,16622,12.3,1162.1,14.3,
+India,Manipur,"Calendar Year (Jan - Dec), 2013",,37,0.0,25.2,1.5,
+India,Meghalaya,"Calendar Year (Jan - Dec), 2013",,137,0.1,26.9,5.1,
+India,Mizoram,"Calendar Year (Jan - Dec), 2013",,95,0.1,10.3,9.2,
+India,Nagaland,"Calendar Year (Jan - Dec), 2013",,37,0.0,23.1,1.6,
+India,Odisha,"Calendar Year (Jan - Dec), 2013",,5252,3.9,415.7,12.6,
+India,Puducherry,"Calendar Year (Jan - Dec), 2013",,546,0.4,15.3,35.6,
+India,Punjab,"Calendar Year (Jan - Dec), 2013",,972,0.7,283.8,3.4,
+India,Rajasthan,"Calendar Year (Jan - Dec), 2013",,4860,3.6,702.9,6.9,
+India,Sikkim,"Calendar Year (Jan - Dec), 2013",,184,0.1,6.3,29.3,
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2013",,16601,12.3,684.0,24.3,
+India,Telangana,"Calendar Year (Jan - Dec), 2013",,6045.09303713301191353158,10.8,357.896656295791654879312,16.9,
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2013",,113.00000000000000000000,0.036931548946183642879,6.900000000000000000000,14.084059677757302573964,
+India,Tripura,"Calendar Year (Jan - Dec), 2013",,961,0.7,37.1,25.9,
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2013",,5286,3.9,2089.2,2.5,
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2013",,365,0.3,102.7,3.6,
+India,West Bengal,"Calendar Year (Jan - Dec), 2013",,13055,9.7,913.9,14.3,
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2012",,121,0.1,5.12,23.6,
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2012",,8345.61726140207957658228,10.5,502.5892726939597634600864,16.6,
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2012",,130,0.1,12.6,10.3,
+India,Assam,"Calendar Year (Jan - Dec), 2012",,3264,2.4,310.71,10.5,
+India,Bihar,"Calendar Year (Jan - Dec), 2012",,759,0.6,994.57,0.8,
+India,Chandigarh,"Calendar Year (Jan - Dec), 2012",,114,0.1,15.32,7.4,
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2012",,5654,4.2,246.95,22.9,
+India,Goa,"Calendar Year (Jan - Dec), 2012",,289,0.2,18.34,15.8,
+India,Gujarat,"Calendar Year (Jan - Dec), 2012",,7110,5.2,600.62,11.8,
+India,Haryana,"Calendar Year (Jan - Dec), 2012",,2827,2.1,259.94,10.9,
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2012",,528,0.4,68.78,7.7,
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2012",,404.94452006029987897740,0.3,116.5340341062418540612740,3.5,
+India,Jharkhand,"Calendar Year (Jan - Dec), 2012",,1319,1.0,320.5,4.1,
+India,Karnataka,"Calendar Year (Jan - Dec), 2012",,12753,9.4,602.29,21.2,
+India,Kerala,"Calendar Year (Jan - Dec), 2012",,8490,6.3,348.82,24.3,
+India,Ladakh,"Calendar Year (Jan - Dec), 2012",,9.05547993970012102260,0.3,2.6059658937581459387260,3.5,
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2012",,1,0.0,0.77,1.3,
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2012",,9775,7.2,737.3,13.3,
+India,Maharashtra,"Calendar Year (Jan - Dec), 2012",,16112,11.9,1146.97,14.0,
+India,Manipur,"Calendar Year (Jan - Dec), 2012",,41,0.0,24.87,1.6,
+India,Meghalaya,"Calendar Year (Jan - Dec), 2012",,128,0.1,26.61,4.8,
+India,Mizoram,"Calendar Year (Jan - Dec), 2012",,173,0.1,10.2,17.0,
+India,Nagaland,"Calendar Year (Jan - Dec), 2012",,30,0.0,22.84,1.3,
+India,Odisha,"Calendar Year (Jan - Dec), 2012",,5027,3.7,412.24,12.2,
+India,Puducherry,"Calendar Year (Jan - Dec), 2012",,541,0.4,14.71,36.8,
+India,Punjab,"Calendar Year (Jan - Dec), 2012",,1030,0.8,280.83,3.7,
+India,Rajasthan,"Calendar Year (Jan - Dec), 2012",,4821,3.6,692.49,7.0,
+India,Sikkim,"Calendar Year (Jan - Dec), 2012",,181,0.1,6.22,29.1,
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2012",,16927,12.5,680.02,24.9,
+India,Telangana,"Calendar Year (Jan - Dec), 2012",,5892.38273859792042341772,10.5,354.8507273060402365399136,16.6,
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2012",,102.00000000000000000000,0.000000000000000000000,6.6100000000000000000000,14.446577447309182143950,
+India,Tripura,"Calendar Year (Jan - Dec), 2012",,844,0.6,36.72,23.0,
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2012",,4422,3.3,2054.26,2.2,
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2012",,424,0.3,101.31,4.2,
+India,West Bengal,"Calendar Year (Jan - Dec), 2012",,14957,11.0,905.95,16.5,
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2008",,143,0.1,4.2,34.5,3.0
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2008",,8413.61077188969309188524,11.5,483.340075414535385507076,17.4,6.447660477273695416660
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2008",,110,0.1,12.0,9.1,21.0
+India,Assam,"Calendar Year (Jan - Dec), 2008",,2989,2.4,300.8,9.9,19.0
+India,Bihar,"Calendar Year (Jan - Dec), 2008",,1015,0.8,943.1,1.1,34.0
+India,Chandigarh,"Calendar Year (Jan - Dec), 2008",,83,0.1,10.7,7.7,23.0
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2008",,4945,4.0,237.7,20.8,9.0
+India,Goa,"Calendar Year (Jan - Dec), 2008",,287,0.2,16.4,17.5,10.0
+India,Gujarat,"Calendar Year (Jan - Dec), 2008",,6165,4.9,566.6,10.9,16.0
+India,Haryana,"Calendar Year (Jan - Dec), 2008",,2656,2.1,238.9,11.1,15.0
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2008",,630,0.5,65.7,9.6,20.0
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2008",,303.21932661520039247100,0.2,122.265857506129190512500,2.5,28.365678941421972198900
+India,Jharkhand,"Calendar Year (Jan - Dec), 2008",,911,0.7,301.4,3.0,28.0
+India,Karnataka,"Calendar Year (Jan - Dec), 2008",,12222,9.8,576.0,21.2,8.0
+India,Kerala,"Calendar Year (Jan - Dec), 2008",,8569,6.9,343.4,25.0,4.0
+India,Ladakh,"Calendar Year (Jan - Dec), 2008",,6.78067338479960752900,0.2,2.734142493870809487500,2.5,0.634321058578027801100
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2008",,0,0.0,0.7,0.0,35.0
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2008",,7629,6.1,696.8,10.9,17.0
+India,Maharashtra,"Calendar Year (Jan - Dec), 2008",,14374,11.5,1073.5,13.4,13.0
+India,Manipur,"Calendar Year (Jan - Dec), 2008",,34,0.0,26.4,1.3,33.0
+India,Meghalaya,"Calendar Year (Jan - Dec), 2008",,85,0.1,25.5,3.3,26.0
+India,Mizoram,"Calendar Year (Jan - Dec), 2008",,41,0.0,9.8,4.2,25.0
+India,Nagaland,"Calendar Year (Jan - Dec), 2008",,42,0.0,22.0,1.9,32.0
+India,Odisha,"Calendar Year (Jan - Dec), 2008",,4904,3.9,400.3,12.2,14.0
+India,Puducherry,"Calendar Year (Jan - Dec), 2008",,507,0.4,10.8,46.9,2.0
+India,Punjab,"Calendar Year (Jan - Dec), 2008",,869,0.7,266.9,3.3,27.0
+India,Rajasthan,"Calendar Year (Jan - Dec), 2008",,5166,4.1,649.9,7.9,22.0
+India,Sikkim,"Calendar Year (Jan - Dec), 2008",,287,0.2,6.0,48.2,1.0
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2008",,14425,11.5,665.8,21.7,6.0
+India,Telangana,"Calendar Year (Jan - Dec), 2008",,5940.38922811030690811476,11.5,341.259924585464614492924,17.4,4.552339522726304583340
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2008",,79.00000000000000000000,0.000000000000000000000,4.500000000000000000000,14.716443618272955359875,23.000000000000000000000
+India,Tripura,"Calendar Year (Jan - Dec), 2008",,752,0.6,35.2,21.3,7.0
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2008",,4088,3.3,1920.5,2.1,30.0
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2008",,191,0.2,95.4,2.0,31.0
+India,West Bengal,"Calendar Year (Jan - Dec), 2008",,14852,11.9,882.1,16.8,12.0
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2007",,156,0.1,4.0,38.5,2.0
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2007",,8723.09847479883047188492,12.1,478.299177223212314544960,18.2,5.861509524794268560600
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2007",,129,0.1,11.9,10.8,15.0
+India,Assam,"Calendar Year (Jan - Dec), 2007",,3062,2.5,296.2,10.3,16.0
+India,Bihar,"Calendar Year (Jan - Dec), 2007",,965,0.8,928.3,1.0,35.0
+India,Chandigarh,"Calendar Year (Jan - Dec), 2007",,82,0.1,10.5,7.8,22.0
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2007",,4839,3.9,233.8,20.7,7.0
+India,Goa,"Calendar Year (Jan - Dec), 2007",,270,0.2,16.0,16.9,12.0
+India,Gujarat,"Calendar Year (Jan - Dec), 2007",,5580,4.6,558.8,10.0,18.0
+India,Haryana,"Calendar Year (Jan - Dec), 2007",,2433,2.0,235.3,10.3,17.0
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2007",,402,0.3,65.1,6.2,24.0
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2007",,228.88168525147384463940,0.2,118.353350065933056416100,1.9,31.300059521569072771200
+India,Jharkhand,"Calendar Year (Jan - Dec), 2007",,1289,1.1,297.3,4.3,26.0
+India,Karnataka,"Calendar Year (Jan - Dec), 2007",,12304,10.0,569.8,21.6,5.0
+India,Kerala,"Calendar Year (Jan - Dec), 2007",,8962,7.3,340.1,26.3,4.0
+India,Ladakh,"Calendar Year (Jan - Dec), 2007",,5.11831474852615536060,0.2,2.646649934066943583900,1.9,0.699940478430927228800
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2007",,3,0.0,0.7,4.4,25.0
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2007",,6329,5.2,684.5,9.2,19.0
+India,Maharashtra,"Calendar Year (Jan - Dec), 2007",,15184,12.4,1059.7,14.3,13.0
+India,Manipur,"Calendar Year (Jan - Dec), 2007",,39,0.0,26.1,1.5,33.0
+India,Meghalaya,"Calendar Year (Jan - Dec), 2007",,87,0.1,25.1,3.5,27.0
+India,Mizoram,"Calendar Year (Jan - Dec), 2007",,28,0.0,9.7,2.9,29.0
+India,Nagaland,"Calendar Year (Jan - Dec), 2007",,24,0.0,21.7,1.1,34.0
+India,Odisha,"Calendar Year (Jan - Dec), 2007",,4308,3.5,396.2,10.9,14.0
+India,Puducherry,"Calendar Year (Jan - Dec), 2007",,517,0.4,10.6,48.6,1.0
+India,Punjab,"Calendar Year (Jan - Dec), 2007",,847,0.7,263.9,3.2,28.0
+India,Rajasthan,"Calendar Year (Jan - Dec), 2007",,4437,3.6,639.1,6.9,23.0
+India,Sikkim,"Calendar Year (Jan - Dec), 2007",,122,0.1,5.9,20.7,8.0
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2007",,13811,11.3,660.2,20.9,6.0
+India,Telangana,"Calendar Year (Jan - Dec), 2007",,6158.90152520116952811508,12.1,337.700822776787685455040,18.2,4.138490475205731439400
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2007",,91.00000000000000000000,0.036931548946183642879,4.400000000000000000000,16.103351474483299576106,24.000000000000000000000
+India,Tripura,"Calendar Year (Jan - Dec), 2007",,705,0.6,34.8,20.3,9.0
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2007",,3927,3.2,1885.4,2.1,31.0
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2007",,248,0.2,94.0,2.6,30.0
+India,West Bengal,"Calendar Year (Jan - Dec), 2007",,14860,12.1,871.8,17.0,11.0
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2006",,133,0.1,4.0,33.6,2.0
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2006",,7781.74004511687094105256,11.2,473.141048841393358211632,16.4,8.792264287191402840900
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2006",,129,0.1,11.7,11.0,23.0
+India,Assam,"Calendar Year (Jan - Dec), 2006",,3031,2.6,291.6,10.4,16.0
+India,Bihar,"Calendar Year (Jan - Dec), 2006",,618,0.5,913.3,0.7,35.0
+India,Chandigarh,"Calendar Year (Jan - Dec), 2006",,80,0.1,10.2,7.8,22.0
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2006",,4626,3.9,229.9,20.1,7.0
+India,Goa,"Calendar Year (Jan - Dec), 2006",,275,0.2,15.5,17.7,10.0
+India,Gujarat,"Calendar Year (Jan - Dec), 2006",,5035,4.3,550.8,9.1,21.0
+India,Haryana,"Calendar Year (Jan - Dec), 2006",,2316,2.0,231.6,10.0,18.0
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2006",,457,0.4,64.5,7.1,24.0
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2006",,256.26923733284678331420,0.2,114.734280683751632376930,2.2,30.321932661520039247100
+India,Jharkhand,"Calendar Year (Jan - Dec), 2006",,856,0.7,293.1,2.9,30.0
+India,Karnataka,"Calendar Year (Jan - Dec), 2006",,12212,10.3,563.5,21.7,6.0
+India,Kerala,"Calendar Year (Jan - Dec), 2006",,9026,7.6,336.8,26.8,3.0
+India,Ladakh,"Calendar Year (Jan - Dec), 2006",,5.73076266715321668580,0.2,2.565719316248367623070,2.2,0.678067338479960752900
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2006",,2,0.0,0.7,3.0,29.0
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2006",,6435,5.4,672.1,9.6,19.0
+India,Maharashtra,"Calendar Year (Jan - Dec), 2006",,15494,13.1,1045.7,14.8,13.0
+India,Manipur,"Calendar Year (Jan - Dec), 2006",,36,0.0,25.7,1.4,33.0
+India,Meghalaya,"Calendar Year (Jan - Dec), 2006",,92,0.1,24.8,3.7,26.0
+India,Mizoram,"Calendar Year (Jan - Dec), 2006",,70,0.1,9.6,7.3,23.0
+India,Nagaland,"Calendar Year (Jan - Dec), 2006",,28,0.0,21.4,1.3,34.0
+India,Odisha,"Calendar Year (Jan - Dec), 2006",,4065,3.4,392.0,10.4,17.0
+India,Puducherry,"Calendar Year (Jan - Dec), 2006",,526,0.4,10.5,50.2,1.0
+India,Punjab,"Calendar Year (Jan - Dec), 2006",,772,0.7,260.8,3.0,28.0
+India,Rajasthan,"Calendar Year (Jan - Dec), 2006",,4263,3.6,628.0,6.8,25.0
+India,Sikkim,"Calendar Year (Jan - Dec), 2006",,145,0.1,5.8,25.0,4.0
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2006",,12381,10.5,654.5,18.9,8.0
+India,Telangana,"Calendar Year (Jan - Dec), 2006",,5494.25995488312905894744,11.2,334.058951158606641788368,16.4,6.207735712808597159100
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2006",,64.00000000000000000000,0.000000000000000000000,4.300000000000000000000,13.898851251524447572434,25.000000000000000000000
+India,Tripura,"Calendar Year (Jan - Dec), 2006",,765,0.6,34.4,22.3,5.0
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2006",,3099,2.6,1850.2,1.7,32.0
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2006",,326,0.3,92.6,3.5,27.0
+India,West Bengal,"Calendar Year (Jan - Dec), 2006",,15725,13.3,861.3,18.3,9.0
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2005",,139,0.1,3.9,35.8,2.0
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2005",,7879.04110322845579915852,11.8,467.807075173830573821486,16.8,7.619962382232549128780
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2005",,70,0.1,11.6,6.0,23.0
+India,Assam,"Calendar Year (Jan - Dec), 2005",,2846,2.5,286.9,9.9,16.0
+India,Bihar,"Calendar Year (Jan - Dec), 2005",,543,0.5,898.2,0.6,34.0
+India,Chandigarh,"Calendar Year (Jan - Dec), 2005",,89,0.1,10.0,8.9,18.0
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2005",,4881,4.3,225.8,21.6,5.0
+India,Goa,"Calendar Year (Jan - Dec), 2005",,282,0.2,15.1,18.7,9.0
+India,Gujarat,"Calendar Year (Jan - Dec), 2005",,4765,4.2,542.7,8.8,19.0
+India,Haryana,"Calendar Year (Jan - Dec), 2005",,2046,1.8,227.9,9.0,17.0
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2005",,359,0.3,63.8,5.6,25.0
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2005",,287.56929685441585608540,0.3,111.213023987575111690170,2.6,28.365678941421972198900
+India,Jharkhand,"Calendar Year (Jan - Dec), 2005",,808,0.7,288.9,2.8,28.0
+India,Karnataka,"Calendar Year (Jan - Dec), 2005",,11557,10.1,557.0,20.7,7.0
+India,Kerala,"Calendar Year (Jan - Dec), 2005",,9244,8.1,333.4,27.7,4.0
+India,Ladakh,"Calendar Year (Jan - Dec), 2005",,6.43070314558414391460,0.3,2.486976012424888309830,2.6,0.634321058578027801100
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2005",,0,0.0,0.7,0.0,35.0
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2005",,5448,4.8,659.5,8.3,20.0
+India,Maharashtra,"Calendar Year (Jan - Dec), 2005",,14426,12.7,1031.6,14.0,14.0
+India,Manipur,"Calendar Year (Jan - Dec), 2005",,27,0.0,25.4,1.1,33.0
+India,Meghalaya,"Calendar Year (Jan - Dec), 2005",,71,0.1,24.5,2.9,27.0
+India,Mizoram,"Calendar Year (Jan - Dec), 2005",,55,0.0,9.5,5.8,24.0
+India,Nagaland,"Calendar Year (Jan - Dec), 2005",,27,0.0,21.2,1.3,32.0
+India,Odisha,"Calendar Year (Jan - Dec), 2005",,4208,3.7,387.5,10.9,15.0
+India,Puducherry,"Calendar Year (Jan - Dec), 2005",,538,0.5,10.3,52.1,1.0
+India,Punjab,"Calendar Year (Jan - Dec), 2005",,588,0.5,257.6,2.3,30.0
+India,Rajasthan,"Calendar Year (Jan - Dec), 2005",,4178,3.7,616.7,6.8,22.0
+India,Sikkim,"Calendar Year (Jan - Dec), 2005",,109,0.1,5.8,19.0,8.0
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2005",,12076,10.6,648.6,18.6,10.0
+India,Telangana,"Calendar Year (Jan - Dec), 2005",,5562.95889677154420084148,11.8,330.292924826169426178514,16.8,5.380037617767450871220
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2005",,101.00000000000000000000,0.036931548946183642879,4.200000000000000000000,21.993154894618364287900,14.000000000000000000000
+India,Tripura,"Calendar Year (Jan - Dec), 2005",,715,0.6,33.9,21.1,6.0
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2005",,3449,3.0,1814.9,1.9,31.0
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2005",,273,0.2,91.2,3.0,26.0
+India,West Bengal,"Calendar Year (Jan - Dec), 2005",,15015,13.2,850.5,17.7,12.0
+India,Andaman And Nicobar Islands,"Calendar Year (Jan - Dec), 2004",,122,0.1,3.8,32.2,2.0
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2004",,7928.27778323672765506756,11.9,462.180026030028076003310,17.2,5.861509524794268560600
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2004",,79,0.1,11.4,6.9,22.0
+India,Assam,"Calendar Year (Jan - Dec), 2004",,2839,2.5,282.1,10.1,16.0
+India,Bihar,"Calendar Year (Jan - Dec), 2004",,351,0.3,883.1,0.4,34.0
+India,Chandigarh,"Calendar Year (Jan - Dec), 2004",,75,0.1,9.8,7.7,20.0
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2004",,4495,4.0,221.5,20.3,7.0
+India,Goa,"Calendar Year (Jan - Dec), 2004",,314,0.3,14.7,21.4,6.0
+India,Gujarat,"Calendar Year (Jan - Dec), 2004",,4776,4.2,534.6,8.9,18.0
+India,Haryana,"Calendar Year (Jan - Dec), 2004",,2082,1.8,224.2,9.3,17.0
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2004",,371,0.3,63.2,5.9,25.0
+India,Jammu And Kashmir,"Calendar Year (Jan - Dec), 2004",,109.55020832549175469920,0.1,107.985205349413301060640,1.0,32.278186381618106295300
+India,Jharkhand,"Calendar Year (Jan - Dec), 2004",,417,0.4,284.5,1.5,31.0
+India,Karnataka,"Calendar Year (Jan - Dec), 2004",,11937,10.5,550.4,21.7,5.0
+India,Kerala,"Calendar Year (Jan - Dec), 2004",,9053,8.0,329.8,27.4,3.0
+India,Ladakh,"Calendar Year (Jan - Dec), 2004",,2.44979167450824530080,0.1,2.414794650586698939360,1.0,0.721813618381893704700
+India,Lakshadweep,"Calendar Year (Jan - Dec), 2004",,0,0.0,0.6,0.0,35.0
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2004",,6795,6.0,646.6,10.5,15.0
+India,Maharashtra,"Calendar Year (Jan - Dec), 2004",,14729,13.0,1017.5,14.5,13.0
+India,Manipur,"Calendar Year (Jan - Dec), 2004",,41,0.0,25.1,1.6,30.0
+India,Meghalaya,"Calendar Year (Jan - Dec), 2004",,55,0.0,24.2,2.3,28.0
+India,Mizoram,"Calendar Year (Jan - Dec), 2004",,60,0.1,9.4,6.4,23.0
+India,Nagaland,"Calendar Year (Jan - Dec), 2004",,31,0.0,21.0,1.5,32.0
+India,Odisha,"Calendar Year (Jan - Dec), 2004",,4215,3.7,382.9,11.0,14.0
+India,Puducherry,"Calendar Year (Jan - Dec), 2004",,539,0.5,10.2,53.0,1.0
+India,Punjab,"Calendar Year (Jan - Dec), 2004",,645,0.6,254.4,2.5,27.0
+India,Rajasthan,"Calendar Year (Jan - Dec), 2004",,3725,3.3,605.1,6.2,24.0
+India,Sikkim,"Calendar Year (Jan - Dec), 2004",,98,0.1,5.7,17.3,9.0
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2004",,12839,11.3,642.3,20.0,8.0
+India,Telangana,"Calendar Year (Jan - Dec), 2004",,5597.72221676327234493244,11.9,326.319973969971923996690,17.2,4.138490475205731439400
+India,The Dadra And Nagar Haveli And Daman And Diu,"Calendar Year (Jan - Dec), 2004",,52.00000000000000000000,0.000000000000000000000,4.100000000000000000000,10.849976307264160573352,32.000000000000000000000
+India,Tripura,"Calendar Year (Jan - Dec), 2004",,770,0.7,33.4,23.0,4.0
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2004",,3637,3.2,1779.4,2.0,29.0
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2004",,237,0.2,89.7,2.6,26.0
+India,West Bengal,"Calendar Year (Jan - Dec), 2004",,13424,11.8,839.5,16.0,12.0
